@@ -214,6 +214,11 @@ See [`docs/limitations.md`](docs/limitations.md) for more detail.
 
 **Nafis Anwar**, **Tanzeel Rahman**, **Cem Tutar**, **Paul Bautista-Solis**  
 
+## My Contributions
+- Manually labeled Reddit comments (human-like / synthetic-like / unsure) to build the supervised training set
+- Designed the feature extraction pipeline, comparing TF-IDF and sentence embeddings as text representations
+- Trained and evaluated four classifier pipelines (TF-IDF and embeddings × Logistic Regression and XGBoost) 
+
 
 University of South Florida  
 Social Media Mining Project
